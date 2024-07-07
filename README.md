@@ -96,8 +96,6 @@ By leveraging Power BI's capabilities and SQL for data processing, we can transf
 
 ![excel-to-powerbi-image](Assets/images/analysisQns.png)
 
-![excel-to-powerbi-image](Assets/images/totalSales.png)
-
 ![excel-to-powerbi-image](Assets/images/regions.png)
 
 ![excel-to-powerbi-image](Assets/images/regionsoff.png)
@@ -109,6 +107,8 @@ By leveraging Power BI's capabilities and SQL for data processing, we can transf
 ![excel-to-powerbi-image](Assets/images/itemson.png)
 
 ![excel-to-powerbi-image](Assets/images/itemsoff.png)
+
+![excel-to-powerbi-image](Assets/images/totalSales.png)
 
 ![excel-to-powerbi-image](Assets/images/annualsales.png)
 
