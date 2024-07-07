@@ -13,7 +13,7 @@
 
 ## Ideal Solution 
 
-- To address these challenges, transitioning from Excel to Power BI offers an ideal solution. Power BI's advanced data processing capabilities, interactive visualizations and user-friendly interface enable comprehensive analysis and real-time reporting.
+- To address these challenges, transitioning from Excel to Power BI offers an ideal solution. Power BI's advanced data processing capabilities, interactive visualizations and user-friendly interface enable comprehensive analysis and real-time reporting. Additionally, SQL was utilized for data manipulation and extraction, ensuring a more structured and efficient data handling process. 
 
 - With Power BI, we can:
 
@@ -36,4 +36,11 @@
 ***5. Detailed Item Type Analysis by Region and Year:****
 
 - Identify the item type that generated the most sales in each region, categorized by sales channel (offline and online) for each year.
+
+
+By leveraging Power BI's capabilities and SQL for data processing, we can transform Amazon's sales data into a powerful tool for strategic planning and performance improvement. This project showcases the transition process and the resulting insights that drive better business decisions.
+
+## Data Source
+
+- Our database is sourced from Kaggle, specifically from an Excel extract available at this [this link](Assets/Documents/Kaggle_to_powerbi.png)
 
