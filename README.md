@@ -1,6 +1,6 @@
 # Amazon Sales Data Portfolio
 
-![excel-to-powerbi-image](Assets/images/Kaggle_to_powerbi.png)
+![excel-to-powerbi-image](Assets/images/amazon.png)
 
 
 ***Hey there!*** 
