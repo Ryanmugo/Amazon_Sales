@@ -25,7 +25,7 @@
 
 - Determine which item type generated the most sales and profits, categorized by sales channel (offline and online).
 
-***3.Summarize Key Metrics:***
+***3. Summarize Key Metrics:***
 
 - Display the total sales value and total profit value in the dataset through clear and concise visuals.
 
