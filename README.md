@@ -82,3 +82,38 @@ By leveraging Power BI's capabilities and SQL for data processing, we can transf
  
     - ***Insights and Reporting:*** Analyze the visualizations to derive insights and prepare a comprehensive report highlighting key findings and recommendations for strategic planning.
   
+## SQL Code and Results
+
+### SQL Code for Creating the Database and View
+
+![excel-to-powerbi-image](Assets/images/DatabaseandTable.png)
+
+![excel-to-powerbi-image](Assets/images/no_of_rows.png)
+
+![excel-to-powerbi-image](Assets/images/no_of_columns.png)
+
+![excel-to-powerbi-image](Assets/images/dataType.png)
+
+![excel-to-powerbi-image](Assets/images/analysisQns.png)
+
+![excel-to-powerbi-image](Assets/images/totalSales.png)
+
+![excel-to-powerbi-image](Assets/images/regions.png)
+
+![excel-to-powerbi-image](Assets/images/regionsoff.png)
+
+![excel-to-powerbi-image](Assets/images/regionson.png)
+
+![excel-to-powerbi-image](Assets/images/items.png)
+
+![excel-to-powerbi-image](Assets/images/itemson.png)
+
+![excel-to-powerbi-image](Assets/images/itemsoff.png)
+
+![excel-to-powerbi-image](Assets/images/annualsales.png)
+
+![excel-to-powerbi-image](Assets/images/itemtypes.png)
+
+![excel-to-powerbi-image](Assets/images/itemtypesoff.png)
+
+![excel-to-powerbi-image](Assets/images/itemtypeson.png)
