@@ -86,34 +86,44 @@ By leveraging Power BI's capabilities and SQL for data processing, we can transf
 
 ### SQL Code for Creating the Database and View
 
+***1. Creating Database and View Table***
 ![excel-to-powerbi-image](Assets/images/DatabaseandTable.png)
 
+***Data Testing for No. of Rows***
 ![excel-to-powerbi-image](Assets/images/no_of_rows.png)
 
+***Data Testing for No. of Columns***
 ![excel-to-powerbi-image](Assets/images/no_of_columns.png)
 
+***Data Testing for Column Name and Each Data Type***
 ![excel-to-powerbi-image](Assets/images/dataType.png)
 
+***Data Analysis Questions To ponder when doing analysis***
 ![excel-to-powerbi-image](Assets/images/analysisQns.png)
 
+***Question 1 Answer***
 ![excel-to-powerbi-image](Assets/images/regions.png)
 
 ![excel-to-powerbi-image](Assets/images/regionsoff.png)
 
 ![excel-to-powerbi-image](Assets/images/regionson.png)
 
+***Question 2 Answer***
 ![excel-to-powerbi-image](Assets/images/items.png)
 
 ![excel-to-powerbi-image](Assets/images/itemson.png)
 
 ![excel-to-powerbi-image](Assets/images/itemsoff.png)
 
+***Question 3 Answer***
 ![excel-to-powerbi-image](Assets/images/totalSales.png)
 
+***Question 5 Answer***
 ![excel-to-powerbi-image](Assets/images/annualsales.png)
 
+***Question 6 Answer***
 ![excel-to-powerbi-image](Assets/images/itemtypes.png)
 
 ![excel-to-powerbi-image](Assets/images/itemtypeoff.png)
 
-![excel-to-powerbi-image](Assets/images/itemtypson.png)
+![excel-to-powerbi-image](Assets/images/itemtypeon.png)
