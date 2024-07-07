@@ -42,5 +42,43 @@ By leveraging Power BI's capabilities and SQL for data processing, we can transf
 
 ## Data Source
 
-- Our database is sourced from Kaggle, specifically from an Excel extract available at this [this link](Assets/Documents/Kaggle_to_powerbi.png)
+- Our database is available at this [this link](Assets/Docs/Amazon_Sales_data.csv)
 
+## Stages of the Amazon Sales Data Analysis Project
+
+- Transitioning from Excel to SQL to PowerBI involves several key stages, each critical to achieving a comprehensive and insightful analysis. Here's a breakdown of the stages:
+
+   ### 1. Design
+
+   - ***Objective Setting***: Clearly define the goals of the analysis. For example, understanding regional sales performance, item-wise sales and annual sales trends.
+     
+   - ***Data Requirements:*** Identify the necessary data fields and structure needed for the analysis. This includes specifying columns like 'Region', 'Sales Channel', 'Item Type', 'Sales', 'Profit' and 'Year'.
+
+   - ***Database Schema Design:***  Plan how the data will be stored and organized in SQL. Create an entity-relationship diagram (ERD) if needed.
+
+   ## 2. Development
+
+   - ***Data Extraction and Transformation:*** Extract data from Excel and transform it into a suitable format for SQL. This may involve cleaning the data, handling missing values and normalizing data fields.
+     
+   - ***SQL Database Setup:*** Create tables and relationships in SQL to store the cleaned data. Load the transformed data int these tables.
+
+   - ***SQL Queries:*** Write SQL queries to aggregate and prepare the data for analysis in Power BI. This includes queries to calculate total sales, profits and other key metrics.
+ 
+   - ***Data Integration:*** Connect Power BI to the SQL database to pull the required data for visualization.
+ 
+   ## 3. Testing
+
+    - ***Data Validation:*** Ensure that the data loaded into SQL is accurate and consistent with the original Excel data. Validate SQL queries to ensure they return the expected results.
+ 
+    - ***Performance Testing:*** Test the performance of SQL queries and Power BI reports to ensure they run efficiently, especially with large datasets.
+ 
+    - ***User Acceptance Testing (UAT):*** Share preliminary reports with stakeholders to gather feedback and make necessary adjustments.
+ 
+   ## 4. Analysis
+
+    - ***Creating Visualizations in Power BI:*** Develop various visualizations to answer the key questions.
+ 
+    - ***Interactive Dashboards:*** Combine the visualizations into a single, interactive Power BI dashboard. Enable drill-down features and slicers for dynamic data exploration.
+ 
+    - ***Insights and Reporting:*** Analyze the visualizations to derive insights and prepare a comprehensive report highlighting key findings and recommendations for strategic planning.
+  
