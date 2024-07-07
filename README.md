@@ -114,6 +114,6 @@ By leveraging Power BI's capabilities and SQL for data processing, we can transf
 
 ![excel-to-powerbi-image](Assets/images/itemtypes.png)
 
-![excel-to-powerbi-image](Assets/images/itemtypesoff.png)
+![excel-to-powerbi-image](Assets/images/itemtypeoff.png)
 
-![excel-to-powerbi-image](Assets/images/itemtypeson.png)
+![excel-to-powerbi-image](Assets/images/itemtypson.png)
