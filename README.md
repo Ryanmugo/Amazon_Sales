@@ -126,4 +126,10 @@ By leveraging Power BI's capabilities and SQL for data processing, we can transf
 
 ![excel-to-powerbi-image](Assets/images/itemtypeoff.png)
 
-![excel-to-powerbi-image](Assets/images/itemtypeon.png)
+
+## Power BI Dashboard Showcase 
+
+- After transitioning the data from Excel to SQL and then to Power BI, we've created a comprehensive and interactive dashboard to visualize and analyze Amazon sales data. Below is an image layout of the Power BI dashboard:
+
+![excel-to-powerbi-image](Assets/images/AmazonDashboard.png)
+
