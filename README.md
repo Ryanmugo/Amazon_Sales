@@ -42,7 +42,7 @@ By leveraging Power BI's capabilities and SQL for data processing, we can transf
 
 ## Data Source
 
-- Our database is available at this [this link]([Assets/Docs/Amazon_Sales_data.csv](https://github.com/Ryanmugo/Amazon_Sales/tree/main/Assets/Docs).
+- Our database is available at this [this link][Assets/Docs/Amazon_Sales_data.csv](https://github.com/Ryanmugo/Amazon_Sales/tree/main/Assets/Docs).
 
 ## Stages of the Amazon Sales Data Analysis Project
 
