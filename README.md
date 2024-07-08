@@ -42,7 +42,7 @@ By leveraging Power BI's capabilities and SQL for data processing, we can transf
 
 ## Data Source
 
-- Our database is available at this [this link]([Assets/Docs/Amazon_Sales_data.csv](https://github.com/Ryanmugo/Amazon_Sales/tree/main/Assets/Docs/Amazon Sales Data.csv)
+- Our database is available at this [this link]([Assets/Docs/Amazon_Sales_data.csv](https://github.com/Ryanmugo/Amazon_Sales/tree/main/Assets/Docs).
 
 ## Stages of the Amazon Sales Data Analysis Project
 
@@ -138,4 +138,4 @@ By leveraging Power BI's capabilities and SQL for data processing, we can transf
 
 - By leveraging SQL for data processing and Power BI for visualization, this project demonstrates how to effectively analyze Amazon sales data. The insights gained from this analysis can drive strategic decisions, improve sales performance and enhance overall business efficiency.
 
-- You can download the Power BI dashboard and the supporting documents from the [Amazon Sales Data Portfolio]([Assets/Docs/Amazon_Sales_data.csv](https://github.com/Ryanmugo/Amazon_Sales/tree/main/Assets/Docs/Amazon_Sales_Data.pbix)
+- You can download the Power BI dashboard and the supporting documents from the [Amazon Sales Data Portfolio](https://github.com/Ryanmugo/Amazon_Sales/tree/main/Assets/Docs/Amazon_Sales_Data.pbix).
