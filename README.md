@@ -89,16 +89,16 @@ By leveraging Power BI's capabilities and SQL for data processing, we can transf
 ***1. Creating Database and View Table***
 ![excel-to-powerbi-image](Assets/images/DatabaseandTable.png)
 
-***Data Testing for No. of Rows***
+***2.Data Testing for No. of Rows***
 ![excel-to-powerbi-image](Assets/images/no_of_rows.png)
 
-***Data Testing for No. of Columns***
+***3.Data Testing for No. of Columns***
 ![excel-to-powerbi-image](Assets/images/no_of_columns.png)
 
-***Data Testing for Column Name and Each Data Type***
+***4.Data Testing for Column Name and Each Data Type***
 ![excel-to-powerbi-image](Assets/images/dataType.png)
 
-***Data Analysis Questions To ponder when doing analysis***
+***5.Data Analysis Questions To ponder when doing analysis***
 ![excel-to-powerbi-image](Assets/images/analysisQns.png)
 
 ***Question 1 Answer***
